@@ -1,3 +1,9 @@
+//this is a comment 
+
+/*this is 
+	    multi-line comments
+*/
+ 
 #include <iostream>
 
 using namespace std;
