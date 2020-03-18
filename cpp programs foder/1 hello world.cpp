@@ -6,7 +6,7 @@ int main()
 {
 	cout << "hello world\n";
 	
-	cout << "i am learning c++";
+	cout << "i am learning c++" << endl;
 	
 	return 0;
 	
